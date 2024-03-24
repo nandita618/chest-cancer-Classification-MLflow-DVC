@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nandi/OneDrive/Desktop/CHEST_CANCER_PRED/mlruns/0/5111fee93bd241df890ceaaa1c6be51e/artifacts
+end_time: 1711173808372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5111fee93bd241df890ceaaa1c6be51e
+run_name: righteous-robin-301
+run_uuid: 5111fee93bd241df890ceaaa1c6be51e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711173801268
+status: 3
+tags: []
+user_id: nandi

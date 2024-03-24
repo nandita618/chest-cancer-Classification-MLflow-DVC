@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/nandi/OneDrive/Desktop/CHEST_CANCER_PRED/mlruns/0/f3823f1ae0e54deb93d5a276cb5931ac/artifacts
+deleted_time: 1711262148629
+end_time: 1711172932659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f3823f1ae0e54deb93d5a276cb5931ac
+run_name: carefree-ram-518
+run_uuid: f3823f1ae0e54deb93d5a276cb5931ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711172919853
+status: 3
+tags: []
+user_id: nandi

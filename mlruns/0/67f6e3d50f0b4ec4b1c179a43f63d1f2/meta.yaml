@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nandi/OneDrive/Desktop/CHEST_CANCER_PRED/mlruns/0/67f6e3d50f0b4ec4b1c179a43f63d1f2/artifacts
+end_time: 1711261962906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67f6e3d50f0b4ec4b1c179a43f63d1f2
+run_name: adventurous-foal-570
+run_uuid: 67f6e3d50f0b4ec4b1c179a43f63d1f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711261954893
+status: 3
+tags: []
+user_id: nandi
